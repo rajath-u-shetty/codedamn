@@ -1,0 +1,3 @@
+tabs: ["src/app/page.tsx",]
+terminals: ["bun install && bun run dev"]
+run-button: bun run dev
